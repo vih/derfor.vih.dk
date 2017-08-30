@@ -2,6 +2,10 @@
 main:
   - title: "Spørgsmål"
     url: /questions/
+  - title: "Om"
+    url: /om/
+  - title: "FAQ"
+    url: /oss/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
