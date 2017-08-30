@@ -5,18 +5,13 @@ author_profile: true
 permalink: /
 ---
 
-## – vær med til at skabe festwebsitet
+## – vær med til at skabe historie
 
 Kære DJI’er og VIH'er
 
-I 2017 er det 75 år siden, Svend Aage Thomsen grundlagde Den Jyske Idrætsskole. Det vil vi fejre!
-Derfor vil vi lave et festwebsite, skrevet af alle DJI’ere og VIH'ere der har lyst til at bidrage.
+I 2017 og 2018 er det 75 år siden, Svend Aage Thomsen grundlagde og åbnede <em>Den Jyske Idrætsskole</em>. Det vil vi fejre!
 
-Hvad er Vejle Idrætshøjskole for en størrelse i dag?
-
-Det vil jeg meget gerne høre din mening om. Derfor udsender vi en række forskellige spørgsmål, som jeg håber at du vil være med til at svare på - og derved skabe indhold og værdi til VIH/DJI i anledning af 75 års jubilæet.
-
-Jeg ser meget frem til at læse jeres svar på følgende spørgsmål her på sitet.
+Derfor vil vi meget gerne høre din mening om, hvad Vejle Idrætshøjskole egentlig er for en størrelse. Jeg håber, at du vil være med til at svare på nedenstående spørgsmål - og derved skabe indhold og værdi til VIH/DJI i anledning af 75 års jubilæet.
 
 {% include base_path %}
 
