@@ -1,5 +1,6 @@
 ---
 title: Om
+layout: single
 permalink: /om/
 ---
 

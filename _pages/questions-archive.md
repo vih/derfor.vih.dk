@@ -1,7 +1,7 @@
 
 ---
 layout: archive
-title: "Questions"
+title: "Spørgsmål"
 permalink: /questions/
 author_profile: false
 ---

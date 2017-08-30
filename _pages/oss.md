@@ -1,5 +1,6 @@
 ---
 title: Ofte stillede spørgsmål
+layout: single
 permalink: /oss/
 ---
 
