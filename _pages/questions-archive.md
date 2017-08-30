@@ -9,7 +9,7 @@ author_profile: false
 {% include base_path %}
 
 <div class="grid__wrapper">
-  {% for post in site.portfolio %}
-    {% include archive-single.html type="grid" %}
+  {% for post in site.questions %}
+    {% include archive-single.html %}
   {% endfor %}
 </div>
