@@ -14,11 +14,7 @@ Derfor vil vi lave et festwebsite, skrevet af alle DJI’ere og VIH'ere der har 
 
 Hvad er Vejle Idrætshøjskole for en størrelse i dag?
 
-Det vil jeg meget gerne høre din mening om. Derfor udsender vi en række forskellige spørgsmål om VIH, som jeg opfordrer alle jer DJI'ere/VIH’ere - nye som gamle - til at svare på.
-
-Alle bidragsydere vil fremstå som forfattere af sitet, da det netop er jer, der er med til at skabe indhold og værdi til VIH samt til fejringen af VIH’s 75-års jubilæum.
-
-Jeg håber, at du vil være med til at afspejle, hvad VIH betyder for dig, og hvad VIH har at byde på i det danske samfund anno 2017.
+Det vil jeg meget gerne høre din mening om. Derfor udsender vi en række forskellige spørgsmål, som jeg håber at du vil være med til at svare på - og derved skabe indhold og værdi til VIH/DJI i anledning af 75 års jubilæet.
 
 Jeg ser meget frem til at læse jeres svar på følgende spørgsmål her på sitet.
 
@@ -32,6 +28,5 @@ Jeg ser meget frem til at læse jeres svar på følgende spørgsmål her på sit
 
 Med venlig hilsen
 
-Ole Damgaard
+Ole Damgaard  
 Forstander
-
