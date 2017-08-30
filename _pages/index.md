@@ -1,11 +1,10 @@
 ---
-layout: home
+layout: single
 title: Vejle Idrætshøjskole fylder 75 år i 2017
 author_profile: true
 permalink: /
 ---
 
-# Vejle Idrætshøjskole fylder 75 år i 2017
 ## – vær med til at skabe festwebsitet
 
 Kære DJI’er og VIH'er
