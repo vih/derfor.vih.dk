@@ -36,7 +36,7 @@
 
                 {% for comment in comments %}
                   {% assign email = comment[1].email %}
-                  {% assign name = comment[1].name %}
+                  {% assign name = comment[1].name | append: " - " | append: comment[1].relation %}
                   {% assign url = comment[1].url %}
                   {% assign date = comment[1].date %}
                   {% assign message = comment[1].message %}
@@ -70,8 +70,8 @@
                   <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
                 </fieldset>
                 <fieldset>
-                  <label for="comment-form-url">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website (optional)" }}</label>
-                  <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
+                  <label for="comment-form-relation">{{ site.data.ui-text[site.locale].comment_form_relation_label | default: "Relation" }}</label>
+                  <input type="url" id="comment-form-relation" name="fields[relation]" tabindex="4"/>
                 </fieldset>
                 <fieldset class="hidden" style="display: none;">
                   <input type="hidden" name="options[slug]" value="{{ page.slug }}">
