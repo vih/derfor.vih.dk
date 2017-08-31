@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/ole-damgaard-frontpage.jpg
-  cta_label: "<i class='fa fa-download'></i> Giv dit bidrag"
+  cta_label: "<i class='fa fa-download'></i> Giv dit svar"
   cta_url: "/questions/"
   caption: Ole Damgaard, forstander
 excerpt: 'I 2017 og 2018 er det 75 år siden, Svend Aage Thomsen grundlagde og åbnede <em>Den Jyske Idrætsskole</em>. Det vil vi fejre!'
