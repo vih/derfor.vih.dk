@@ -89,11 +89,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "http://github.com/vih/derfor.vih.dk.git"
+  github           : "vih/derfor.vih.dk.git"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "http://instagram.com/vihdk"
+  instagram        : "vihdk"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "http://twitter.com/vihdk"
+  twitter          : "vihdk"
   vine             :
   weibo            :
   xing             :
@@ -163,6 +163,10 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
+
+# Build settings
+github: [metadata]
 
 
 # Sass/SCSS
