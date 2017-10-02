@@ -1,13 +1,17 @@
 language: ruby
 cache: bundler
 rvm:
-  - 2.2.2
+  - 2.2.7
+  - 2.3.4
+  - 2.4.1
 matrix:
+  include:
   allow_failures:
-    - 2.1
-    - jruby
-    - rbx-2
+    - rvm: 2.3.4
+    - rvm: 2.4.1
   fast_finish: true
+install:
+  - travis_retry bundle install
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --only-4xx --assume-extension --check-favicon --check-html --allow-hash-href
