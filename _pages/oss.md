@@ -18,7 +18,7 @@ Du er meget velkommen til at bidrage med dit svar på Oles spørgsmål. Meninger
 
 ## Hvad skal bidragene og stemmerne bruges til?
 
-Bidragene skal bruges til at vise, hvad VIH'erne mener om VIH anno 2017. VIH udgiver et festwebiste, med de bedste og mest tankevækkende bidrag - altså de bidrag, som du er med til at skrive.
+Bidragene skal bruges til at vise, hvad VIH'erne mener om VIH anno 2017. VIH udgiver et festwebsite, med de bedste og mest tankevækkende bidrag - altså de bidrag, som du er med til at skrive.
 
 ## Hvad skal jeg gøre, hvis jeg fortryder mit indlæg?
 
